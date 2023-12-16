@@ -31,43 +31,43 @@
   "dishes": [
     {
       "id": 0,
-      "name": "Uthappizza",
+      "name": "Nike Air Max 90",
       "image": "images/Recommend_1.webp",
       "category": "mains",
       "label": "Hot",
       "price": "4.99",
       "featured": true,
-      "description": "A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer."
+      "description": "Lace up and feel the legacy. Produced at the intersection of art, music and culture, this champion running shoe helped define the '90s. Worn by presidents, revolutionised through collabs and celebrated through rare colourways, its striking visuals, Waffle sole and exposed Nike Air cushioning keep it alive and well."
     },
     {
       "id": 1,
-      "name": "Zucchipakoda",
+      "name": "Nike Air Trainer 1",
       "image": "images/Recommend_2.webp",
       "category": "appetizer",
       "label": "",
       "price": "1.99",
       "featured": false,
-      "description": "Deep fried Zucchini coated with mildly spiced Chickpea flour batter accompanied with a sweet-tangy tamarind sauce"
+      "description": "Where will you take your sneakers? Anywhere and everywhere? These essential shoes, just like the originals from '87, let you move across town without a glitch. With retro details you love like the forefoot strap and layered midsole, as well as a modern tricolour refresh, it keeps the legend alive and well."
     },
     {
       "id": 2,
-      "name": "Vadonut",
+      "name": "Air Jodan 1 Mid",
       "image": "images/Recommend_3.webp",
       "category": "appetizer",
       "label": "New",
       "price": "1.99",
       "featured": false,
-      "description": "A quintessential ConFusion experience, is it a vada or is it a donut?"
+      "description": "Inspired by the original AJ1, this mid-top edition maintains the iconic look you love while choice colours and crisp leather give it a distinct identity."
     },
     {
       "id": 3,
-      "name": "ElaiCheese Cake",
+      "name": "Nike Dunk Low Retro",
       "image": "images/Recommend_4.webp",
       "category": "dessert",
       "label": "",
       "price": "2.99",
       "featured": false,
-      "description": "A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms"
+      "description": "Created for the hardwood but taken to the streets, the '80s basketball icon returns with classic details and throwback hoops flair. Its padded, low-cut collar and foam midsole let you take your game anywhere—in comfort."
     }
   ],
   "comments": [
