@@ -55,19 +55,79 @@
       "image": "images/Recommend_3.webp",
       "category": "appetizer",
       "label": "New",
-      "price": "1.99",
+      "price": "4.99",
       "featured": false,
       "description": "Inspired by the original AJ1, this mid-top edition maintains the iconic look you love while choice colours and crisp leather give it a distinct identity."
     },
     {
       "id": 3,
-      "name": "Nike Dunk Low Retro",
+      "name": "Air Max Plus",
       "image": "images/Recommend_4.webp",
-      "category": "dessert",
-      "label": "",
-      "price": "2.99",
+      "category": "appetizer",
+      "label": "New",
+      "price": "9.99",
       "featured": false,
-      "description": "Created for the hardwood but taken to the streets, the '80s basketball icon returns with classic details and throwback hoops flair. Its padded, low-cut collar and foam midsole let you take your game anywhere—in comfort."
+      "description": "Inspired by the original AJ1, this mid-top edition maintains the iconic look you love while choice colours and crisp leather give it a distinct identity."
+    },
+    {
+      "id": 4,
+      "name": "Waffle",
+      "image": "images/Recommend_5.webp",
+      "category": "appetizer",
+      "label": "New",
+      "price": "8.99",
+      "featured": false,
+      "description": "Inspired by the original AJ1, this mid-top edition maintains the iconic look you love while choice colours and crisp leather give it a distinct identity."
+    },
+    {
+      "id": 5,
+      "name": "Air Runner",
+      "image": "images/Recommend_6.webp",
+      "category": "appetizer",
+      "label": "New",
+      "price": "4.99",
+      "featured": false,
+      "description": "Inspired by the original AJ1, this mid-top edition maintains the iconic look you love while choice colours and crisp leather give it a distinct identity."
+    },
+    {
+      "id": 6,
+      "name": "Air Max Kid",
+      "image": "images/Recommend_7.webp",
+      "category": "appetizer",
+      "label": "New",
+      "price": "3.99",
+      "featured": false,
+      "description": "Inspired by the original AJ1, this mid-top edition maintains the iconic look you love while choice colours and crisp leather give it a distinct identity."
+    },
+    {
+      "id": 7,
+      "name": "Air Scout",
+      "image": "images/Recommend_8.webp",
+      "category": "appetizer",
+      "label": "New",
+      "price": "6.99",
+      "featured": false,
+      "description": "Inspired by the original AJ1, this mid-top edition maintains the iconic look you love while choice colours and crisp leather give it a distinct identity."
+    },
+    {
+      "id": 8,
+      "name": "Air Jodan 1 Mid Low",
+      "image": "images/Recommend_9.webp",
+      "category": "appetizer",
+      "label": "New",
+      "price": "7.99",
+      "featured": false,
+      "description": "Inspired by the original AJ1, this mid-top edition maintains the iconic look you love while choice colours and crisp leather give it a distinct identity."
+    },
+    {
+      "id": 9,
+      "name": "Air Runner",
+      "image": "images/Recommend_10.webp",
+      "category": "appetizer",
+      "label": "New",
+      "price": "3.99",
+      "featured": false,
+      "description": "Inspired by the original AJ1, this mid-top edition maintains the iconic look you love while choice colours and crisp leather give it a distinct identity."
     }
   ],
   "comments": [
