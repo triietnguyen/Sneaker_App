@@ -1,38 +1,11 @@
 {
-  "categories": [
-    {
-      "id": 0,
-      "name": "Weekend Grand Buffet",
-      "image": "images/Men.png",
-      "label": "New",
-      "price": "19.99",
-      "featured": true,
-      "description": "Featuring mouthwatering combinations with a choice of five different salads, six enticing appetizers, six main entrees and five choicest desserts. Free flowing bubbly and soft drinks. All for just $19.99 per person "
-    },
-    {
-      "id": 1,
-      "name": "Weekend Grand Buffet",
-      "image": "images/Women.png",
-      "label": "New",
-      "price": "19.99",
-      "featured": true,
-      "description": "Featuring mouthwatering combinations with a choice of five different salads, six enticing appetizers, six main entrees and five choicest desserts. Free flowing bubbly and soft drinks. All for just $19.99 per person "
-    },
-    {
-      "id": 2,
-      "name": "Weekend Grand Buffet",
-      "image": "images/Kid.png",
-      "label": "New",
-      "price": "19.99",
-      "featured": true,
-      "description": "Featuring mouthwatering combinations with a choice of five different salads, six enticing appetizers, six main entrees and five choicest desserts. Free flowing bubbly and soft drinks. All for just $19.99 per person "
-    }
-  ],
   "dishes": [
     {
       "id": 0,
       "name": "Nike Air Max 90",
+      "name_category": "Men Clothes",
       "image": "images/Recommend_1.png",
+      "image_category": "images/Men.png",
       "category": "man",
       "label": "Hot",
       "price": "4.99",
@@ -42,7 +15,9 @@
     {
       "id": 1,
       "name": "Nike Air Trainer 1",
+      "name_category": "Men Clothes",
       "image": "images/Recommend_2.png",
+      "image_category": "images/Men.png",
       "category": "man",
       "label": "",
       "price": "1.99",
@@ -52,7 +27,9 @@
     {
       "id": 2,
       "name": "Air Jodan 1 Mid",
+      "name_category": "Men Clothes",
       "image": "images/Recommend_3.png",
+      "image_category": "images/Men.png",
       "category": "man",
       "label": "New",
       "price": "4.99",
@@ -62,7 +39,9 @@
     {
       "id": 3,
       "name": "Air Max Plus",
+      "name_category": "Men Clothes",
       "image": "images/Recommend_4.png",
+      "image_category": "images/Men.png",
       "category": "man",
       "label": "New",
       "price": "9.99",
@@ -72,7 +51,9 @@
     {
       "id": 4,
       "name": "Waffle",
+      "name_category": "Men Clothes",
       "image": "images/Recommend_5.png",
+      "image_category": "images/Men.png",
       "category": "man",
       "label": "New",
       "price": "8.99",
@@ -82,7 +63,9 @@
     {
       "id": 5,
       "name": "Air Runner",
+      "name_category": "Kid Clothes",
       "image": "images/Recommend_6.png",
+      "image_category": "images/Kid.png",
       "category": "kid",
       "label": "New",
       "price": "4.99",
@@ -92,7 +75,9 @@
     {
       "id": 6,
       "name": "Air Max Kid",
+      "name_category": "Kid Clothes",
       "image": "images/Recommend_7.png",
+      "image_category": "images/Kid.png",
       "category": "kid",
       "label": "New",
       "price": "3.99",
@@ -102,7 +87,9 @@
     {
       "id": 7,
       "name": "Air Scout",
+      "name_category": "Women Clothes",
       "image": "images/Recommend_8.png",
+      "image_category": "images/Women.png",
       "category": "women",
       "label": "New",
       "price": "6.99",
@@ -112,7 +99,9 @@
     {
       "id": 8,
       "name": "Air Jodan 1 Mid Low",
+      "name_category": "Women Clothes",
       "image": "images/Recommend_9.png",
+      "image_category": "images/Women.png",
       "category": "women",
       "label": "New",
       "price": "7.99",
@@ -122,7 +111,9 @@
     {
       "id": 9,
       "name": "Air Runner",
+      "name_category": "Women Clothes",
       "image": "images/Recommend_10.png",
+      "image_category": "images/Women.png",
       "category": "women",
       "label": "New",
       "price": "3.99",
